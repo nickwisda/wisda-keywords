@@ -1,82 +1,93 @@
 {
-  "meta": {
-    "priority_rule": "christmas_lights takes priority during oct nov dec",
-    "note": "keywords are limited to avoid over optimization"
+  "Winter": {
+    "keywords": [
+      "christmas light installation Howell MI",
+      "christmas light installation Brighton MI",
+      "christmas light installation Novi MI",
+      "christmas light installation Ann Arbor MI",
+      "holiday light installation Detroit MI",
+      "holiday light installation Livingston County MI",
+      "professional christmas light installers MI",
+      "outdoor christmas light installation MI",
+      "residential christmas light installation MI",
+      "commercial christmas light installation MI",
+      "affordable christmas light installation MI",
+      "holiday lighting service MI",
+      "led christmas light installation MI",
+      "custom holiday lighting MI",
+      "luxury christmas light installation MI"
+    ]
   },
-  "cities": [
-    "Howell",
-    "Brighton",
-    "Pinckney",
-    "Hartland",
-    "South Lyon",
-    "Plymouth",
-    "Fowlerville",
-    "Novi",
-    "Wixom",
-    "Milford",
-    "Highland",
-    "Byron",
-    "Cohactah"
-  ],
-  "counties_for_christmas": [
-    "Livingston County",
-    "Oakland County",
-    "Washtenaw County",
-    "Ingham County"
-  ],
-  "services": {
-    "christmas_lights": {
-      "active_months": ["oct", "nov", "dec"],
-      "keywords": [
-        "christmas light installation",
-        "christmas lights near me",
-        "holiday light installation",
-        "holiday lighting service",
-        "professional christmas light installers",
-        "outdoor christmas light installation",
-        "residential christmas light installation",
-        "commercial christmas light installation",
-        "affordable christmas light installation"
-      ]
-    },
-    "window_cleaning": {
-      "active_months": [
-        "mar",
-        "apr",
-        "may",
-        "jun",
-        "jul",
-        "aug",
-        "sep",
-        "oct"
-      ],
-      "keywords": [
-        "window cleaning",
-        "window cleaning near me",
-        "residential window cleaning",
-        "commercial window cleaning",
-        "window washing service",
-        "affordable window cleaning"
-      ]
-    },
-    "gutter_cleaning": {
-      "active_months": [
-        "oct",
-        "nov",
-        "dec",
-        "jan",
-        "feb",
-        "mar",
-        "apr"
-      ],
-      "keywords": [
-        "gutter cleaning",
-        "gutter cleaning near me",
-        "gutter cleaning service",
-        "gutter cleaning cost",
-        "downspout cleaning",
-        "roof and gutter cleaning"
-      ]
-    }
+  "Spring": {
+    "keywords": [
+      "window cleaning Howell MI",
+      "window cleaning Brighton MI",
+      "window cleaning Novi MI",
+      "window cleaning Plymouth MI",
+      "residential window cleaning Livingston County MI",
+      "commercial window cleaning Oakland County MI",
+      "affordable window cleaning MI",
+      "professional window washing MI",
+      "window washing service Howell MI",
+      "window washing service Brighton MI",
+      "residential glass cleaning Novi MI",
+      "commercial glass cleaning MI",
+      "exterior window cleaning Howell MI",
+      "interior window cleaning Brighton MI",
+      "skylight cleaning Novi MI",
+      "window cleaning near me MI",
+      "screen cleaning Howell MI",
+      "glass polishing MI",
+      "high rise window cleaning MI",
+      "streak free window cleaning MI"
+    ]
+  },
+  "Summer": {
+    "keywords": [
+      "window cleaning Howell MI",
+      "window cleaning Brighton MI",
+      "window cleaning Novi MI",
+      "window cleaning Plymouth MI",
+      "residential window cleaning Livingston County MI",
+      "commercial window cleaning Oakland County MI",
+      "affordable window cleaning MI",
+      "professional window washing MI",
+      "window washing service Howell MI",
+      "window washing service Brighton MI",
+      "residential glass cleaning Novi MI",
+      "commercial glass cleaning MI",
+      "exterior window cleaning Howell MI",
+      "interior window cleaning Brighton MI",
+      "skylight cleaning Novi MI",
+      "window cleaning near me MI",
+      "screen cleaning Howell MI",
+      "glass polishing MI",
+      "high rise window cleaning MI",
+      "streak free window cleaning MI"
+    ]
+  },
+  "Fall": {
+    "keywords": [
+      "gutter cleaning Howell MI",
+      "gutter cleaning Brighton MI",
+      "gutter cleaning Novi MI",
+      "gutter cleaning Plymouth MI",
+      "gutter cleaning Livingston County MI",
+      "gutter cleaning Oakland County MI",
+      "downspout cleaning Howell MI",
+      "residential gutter cleaning MI",
+      "commercial gutter cleaning MI",
+      "gutter maintenance Howell MI",
+      "gutter repair MI",
+      "roof gutter cleaning MI",
+      "clogged gutter cleaning Howell MI",
+      "seamless gutter cleaning Brighton MI",
+      "gutter guards installation MI",
+      "gutter cleaning near me MI",
+      "rain gutter cleaning Novi MI",
+      "affordable gutter cleaning MI",
+      "professional gutter cleaning MI",
+      "seasonal gutter cleaning MI"
+    ]
   }
 }
