@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "priority_rule": "christmas_lights takes priority during oct nov dec",
+    "note": "keywords are limited to avoid over optimization"
+  },
+  "cities": [
+    "Howell",
+    "Brighton",
+    "Pinckney",
+    "Hartland",
+    "South Lyon",
+    "Plymouth",
+    "Fowlerville",
+    "Novi",
+    "Wixom",
+    "Milford",
+    "Highland",
+    "Byron",
+    "Cohactah"
+  ],
+  "counties_for_christmas": [
+    "Livingston County",
+    "Oakland County",
+    "Washtenaw County",
+    "Ingham County"
+  ],
+  "services": {
+    "christmas_lights": {
+      "active_months": ["oct", "nov", "dec"],
+      "keywords": [
+        "christmas light installation",
+        "christmas lights near me",
+        "holiday light installation",
+        "holiday lighting service",
+        "professional christmas light installers",
+        "outdoor christmas light installation",
+        "residential christmas light installation",
+        "commercial christmas light installation",
+        "affordable christmas light installation"
+      ]
+    },
+    "window_cleaning": {
+      "active_months": [
+        "mar",
+        "apr",
+        "may",
+        "jun",
+        "jul",
+        "aug",
+        "sep",
+        "oct"
+      ],
+      "keywords": [
+        "window cleaning",
+        "window cleaning near me",
+        "residential window cleaning",
+        "commercial window cleaning",
+        "window washing service",
+        "affordable window cleaning"
+      ]
+    },
+    "gutter_cleaning": {
+      "active_months": [
+        "oct",
+        "nov",
+        "dec",
+        "jan",
+        "feb",
+        "mar",
+        "apr"
+      ],
+      "keywords": [
+        "gutter cleaning",
+        "gutter cleaning near me",
+        "gutter cleaning service",
+        "gutter cleaning cost",
+        "downspout cleaning",
+        "roof and gutter cleaning"
+      ]
+    }
+  }
+}
